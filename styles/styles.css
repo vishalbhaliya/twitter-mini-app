@@ -1,0 +1,46 @@
+.header-flex {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+.main-flex {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+.user-info {
+  width: 100%;
+  margin-top: 20px;
+  font-weight: 600;
+  align-items: center;
+  font-size: 18px;
+  display: -webkit-flex;
+  display: flex;
+}
+.home-flex {
+  width: 100%;
+  margin-top: 20px;
+}
+.ui.primary.button.tweet-btn {
+  width: 20%;
+  margin: 0px;
+}
+.logo {
+  width: 16%;
+}
+.trending-text {
+  font-weight: 600;
+  align-items: center;
+  font-size: 18px;
+  display: -webkit-flex;
+  display: flex;
+}
+.trending-header-flex {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+  height: 400px;
+}
